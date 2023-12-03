@@ -31,7 +31,6 @@ const Footer = () => {
                 functionality, and we do not share this information with third
                 parties.
               </p>
-              {/* Add more content as needed */}
             </div>
           </PopoverContent>
         </Popover>
@@ -54,7 +53,6 @@ const Footer = () => {
                 You are responsible for maintaining the security of your account
                 and password. Do not share your password with others.
               </p>
-              {/* Add more content as needed */}
             </div>
           </PopoverContent>
         </Popover>
